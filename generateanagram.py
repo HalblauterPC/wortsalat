@@ -1,7 +1,4 @@
 
-from cgi import test
-from distutils.ccompiler import new_compiler
-
 hasanelement = False
 
 english = True
