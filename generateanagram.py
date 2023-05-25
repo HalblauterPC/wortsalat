@@ -33,7 +33,7 @@ else:
 
     #wordlist = sorted(wordlist, key=len, reverse = True)
 
-word = "gabrielsmith" # all lower case
+word = "johndoe" # all lower case
 
 length = len(word)
 
