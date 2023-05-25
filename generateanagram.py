@@ -20,7 +20,7 @@ if english:
 
     wordlist = sorted(wordlist, key=len, reverse = True)
 else:
-    with open('neue-wortwordlist.txt','r') as f:
+    with open('wortliste.txt','r') as f:
         for line in f:
             strip_lines=line.strip()
             word = strip_lines.split()
